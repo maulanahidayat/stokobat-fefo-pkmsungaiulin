@@ -38,28 +38,6 @@ Metode **FEFO (First Expired First Out)** digunakan untuk membantu pengelolaan p
 
 ---
 
-## 🛠️ Teknologi
-
-- PHP Native
-- MySQL
-- HTML5
-- CSS3
-- Bootstrap 5
-- JavaScript
-- Font Awesome
-- DataTables
-
----
-
-## 💻 Persyaratan Sistem
-
-- PHP 8.x
-- MySQL 8.x atau MariaDB
-- Apache Web Server
-- Laragon / XAMPP
-
----
-
 ## 📊 Metode
 
 Aplikasi menggunakan metode **FEFO (First Expired First Out)**, yaitu sistem secara otomatis memprioritaskan pengeluaran obat berdasarkan tanggal kedaluwarsa terdekat sehingga dapat meminimalkan risiko obat kedaluwarsa.
